@@ -1,25 +1,50 @@
-# README
+# <p align="center" style="color:teal;">CREATION DU LANDING PAGE THP</p>
+### <p align="center" style="color:teal;">Jour 4 du Semaine 6</p>
+<p align="center" style="color:teal;">(Equipe de SAYNA)</p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+***
 
-Things you may want to cover:
+![alt text](https://github.com/Itokiana/landing-page-thp/raw/master/team.png "La team Madagascar")
 
-* Ruby version
+***
 
-* System dependencies
+### <p align="center" style="color:blue;">Présentation de l'équipe 1 de Madagascar</p>
+#### Contributeur :
 
-* Configuration
+* [@Itokiana](https://www.github.com/Itokiana)
+	* A fait la landing page
+* [@Fenitra](https://www.github.com/Andryhajanirina)
+	* A fait le call to action (inscription à la newsletter de The Hacking Project)
+* [@Riana](https://www.github.com/Andryhajanirina)
+	* A fait l'analyse des metrics
+* [@Lova](https://www.github.com/) et 
+[@Ando](https://www.github.com/ando) et [@meyer](https://www.github.com/nrjmeyer)
+	* Ont faient le rendu
+* [@Andry](https://www.github.com/Andryhajanirina) et [@Cedric](https://www.github.com/tafitasoa)
+	* A fait le readme
+***
+### <p align="center" style="color:blue;">Description de chaque partie</p>
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
+### 1. Le landing page :
+[https://mighty-ocean-19348.herokuapp.com/](https://mighty-ocean-19348.herokuapp.com/)    
+[https://thp-by-team-mada.herokuapp.com/](https://thp-by-team-mada.herokuapp.com/)    
+1. La page est divise en 4 sections: a propos, cursus, l'equipe, contact
+2. La page peut enregistrer et envoyer un email de remerciement d'avoir visiter le site
 
-* Services (job queues, cache servers, search engines, etc.)
+### 2. Le call to action
+> Description du call to action
 
-* Deployment instructions
+### 3. L'analyse des metrics
+> Description de l'analyse des metrics
 
-* ...
-# landingpage
+### 4. Le rendu
+> Description du rendu
+
+***
+
+
+[![IMAGE ALT TEXT HERE](https://aprc.it/api/800x500/http://sayna.io/)](http://sayna.io/)
+
+[&copy; 2018 Team Mada](http://sayna.io/)
