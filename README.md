@@ -26,8 +26,8 @@
 
 ### 1. Les landing page :
 [https://fathomless-cove-10223.herokuapp.com/](https://fathomless-cove-10223.herokuapp.com/)    
-[https://thp-by-team-mada.herokuapp.com/](https://thp-by-team-mada.herokuapp.com/) 
-[https://shrouded-castle-14800.herokuapp.com/](https://shrouded-castle-14800.herokuapp.com/)
+[https://thp-by-team-mada.herokuapp.com/](https://thp-by-team-mada.herokuapp.com/)                   
+    [https://shrouded-castle-14800.herokuapp.com/](https://shrouded-castle-14800.herokuapp.com/)
 1. Une Landing page pour cibler les Bacheliers, en parallèle avec le projet de la Sem 7 Day 4.
 2. La page peut enregistrer et envoyer un email de remerciement d'avoir visiter le site
 
