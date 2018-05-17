@@ -104,3 +104,9 @@
 	.portfolioContainer{ width:280px !important; margin:0 auto !important }
 
 }
+
+
+.header-text.btn {
+height: auto;
+white-space: inherit;
+}

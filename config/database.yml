@@ -20,4 +20,6 @@ test:
   <<: *default
   database: db/test.sqlite3
 
-# nisy nofafana teo
+production:
+  <<: *default
+  database: db/production.sqlite3
