@@ -29,7 +29,8 @@
 [https://thp-by-team-mada.herokuapp.com/](https://thp-by-team-mada.herokuapp.com/)                   
     [https://shrouded-castle-14800.herokuapp.com/](https://shrouded-castle-14800.herokuapp.com/)
 1. Une Landing page pour cibler les Bacheliers, en parallèle avec le projet de la Sem 7 Day 4.
-2. La page peut enregistrer et envoyer un email de remerciement d'avoir visiter le site
+2. Une landing page qui cible la ville d'Antananarivo        
+3. La page peut enregistrer et envoyer un email de remerciement d'avoir visiter le site
 
 ### 2. Le call to action
 > Description du call to action
